@@ -10,6 +10,7 @@ arquivos:
 PARTE 2:
 
 arquivos:
+* RELATORIO 2
 * hand detection.py
 * remoteAPI.dll
 * robot
